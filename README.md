@@ -44,7 +44,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 2. Configure Departments<br>
     &nbsp; A. Admin Panel -> Agents -> Departments <br>
-    &nbsp; &nbsp; B. Add New Department -> Type "System Administrators" -> Create Dept
+    &nbsp; B. Add New Department -> Type "System Administrators" -> Create Dept
 
 ![image](https://github.com/NathanSuguitan/osticket-post_installation/assets/138082246/3691ed12-1b97-44dd-ae77-3efa95fe48ca)
 
@@ -60,8 +60,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/NathanSuguitan/osticket-post_installation/assets/138082246/0c146eb5-c3dd-4b80-becb-a174473a0f03)
 
   4. Allow anyone to Create Tickets <br>
- &nbsp;  A. Admin Panel -> Settings -> Users <br>
-  &nbsp; &nbsp; B. Registration Required: Require registration and login to create tickets <br>
+ &nbsp; A. Admin Panel -> Settings -> Users <br>
+ &nbsp; B. Registration Required: Require registration and login to create tickets <br>
     &nbsp; &nbsp; &nbsp; i. Make sure Registration Method says "Public - Anyone Can Register"
 
 ![image](https://github.com/NathanSuguitan/osticket-post_installation/assets/138082246/5d53ba09-0a70-4fed-9fca-d64f6759d522)
