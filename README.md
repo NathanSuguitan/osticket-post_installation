@@ -30,7 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 1. Configure Roles <br>
   &nbsp; A. Admin Panel -> Agents -> Roles <br>
-  &nbsp; &nbsp; B. Add New Role -> Type "Supreme Admin" -> Checkmark all boxes under "Permissions" (tickets, task, and knowledgebase) -> Add Role
+  &nbsp; B. Add New Role -> Type "Supreme Admin" -> Checkmark all boxes under "Permissions" (tickets, task, and knowledgebase) -> Add Role
 
 
 ![image](https://github.com/NathanSuguitan/osticket-post_installation/assets/138082246/a1e8335f-fec6-4104-b48d-3be35080ba3c)
